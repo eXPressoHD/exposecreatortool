@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Internes Werkzeug zum Ausstellen von Lizenzen. NICHT an Kunden weitergeben. -->
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>ExposeCreator.LicenseGenerator</AssemblyName>
+    <RootNamespace>LicenseGenerator</RootNamespace>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+*.user
+# Niemals den privaten Schlüssel oder ausgestellte Lizenzen einchecken
+*.pem
+*.lic
+*.csv
